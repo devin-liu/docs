@@ -23,10 +23,6 @@
       "url": "mailto:devin@glanceables.co"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
       "name": "API Reference",
@@ -36,23 +32,18 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "quickstart"]
+      "pages": ["introduction"]
     },
     {
       "group": "Blog",
       "pages": [
         "posts/the-future-of-ai-data-extraction",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "posts/how-to-choose-the-right-knowledge-management-software-for-your-team",
+        "posts/unlocking-business-value-through-document-processing-automation",
+        "posts/building-a-successful-knowledge-documentation-strategy",
+        "posts/top-open-source-crm-solutions-for-small-businesses",
+        "posts/is-confluence-dead-exploring-alternatives-to-on-premise-wiki-solutions"
       ]
     }
-  ],
-  "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
-  }
+  ]
 }
